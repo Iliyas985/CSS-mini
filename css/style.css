@@ -5,7 +5,7 @@
 }
 
 .main_box{
-  background: url(images/photo.jpg);
+  background: url(../images/photo.jpg);
   background-size: cover;
   font-family: 'Courier New', Courier, monospace;
   height: 100vh;
